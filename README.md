@@ -1,11 +1,12 @@
 <!-- Belykh Ivan (Biskabos) My README.md -->
 
-![Belykh_Ivan_header](./images/Belykh_Ivan_header.png)
+![Belykh Ivan header][]
 
 # 😑📝💬 _About me_
+## ⚠️👷🔎 _I'm looking for a job PHP developer!_
+## ⚠️💵💻 _I have no experience in commercial development!_
 ### ❕😄💎 _I want to change my life!_
-### ❕🎓🔎 _Studying, looking for a job!_
-### ❕👷💻 _I have no experience as a programmer!_
+### ❕🎓💡 I am learning new technologies!
 
 ---
 
@@ -61,6 +62,9 @@ Name | Technology | Year | Progress
 🕖 Coming soon ...
 
 <!-- My links -->
+<!-- Header -->
+[Belykh Ivan header]: ./images/Belykh_Ivan_header.png "Belykh Ivan (Biskabos)"
+
 <!-- SOLOLEARN.COM -->
 [SOLOLEARN.COM]: https://www.sololearn.com/learning "Go to page"
 
